@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="044cc6b1-bf43-4146-881e-41f02e20a9d8" name="Changes" comment="Agregué enlace vertical" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NmtRWYBq3JfSa5WP8megoB8ybv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="044cc6b1-bf43-4146-881e-41f02e20a9d8" name="Changes" comment="" />
+      <created>1680281077826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680281077826</updated>
+    </task>
+    <task id="LOCAL-00001" summary="PRIMER PASO">
+      <created>1680281280501</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680281280501</updated>
+    </task>
+    <task id="LOCAL-00002" summary="PRIMER PASO">
+      <created>1680281330190</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680281330190</updated>
+    </task>
+    <task id="LOCAL-00003" summary="PRIMER PASO">
+      <created>1680281438427</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680281438427</updated>
+    </task>
+    <task id="LOCAL-00004" summary="SEGUNDO  PASO">
+      <created>1680281505551</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680281505551</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Agregué mas items">
+      <created>1680281642600</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680281642600</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Agregué enlalce">
+      <created>1680281798405</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680281798405</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Agregué enlace vertical">
+      <created>1680282059119</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680282059119</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PRIMER PASO" />
+    <MESSAGE value="SEGUNDO  PASO" />
+    <MESSAGE value="Agregué mas items" />
+    <MESSAGE value="Agregué enlalce" />
+    <MESSAGE value="Agregué enlace vertical" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregué enlace vertical" />
+  </component>
+</project>
